@@ -1,7 +1,7 @@
 # httpd-tomcat
 Apache WebServer and Tomcat Admin Docs
 
-#Lab-2: Install Apache From Source (As root user)
+# Lab-2: Install Apache From Source (As root user)
 Prerequisites: 
 1. c++ for compiling (installed)
 2. PCRE v8.x 

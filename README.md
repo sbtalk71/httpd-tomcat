@@ -65,4 +65,8 @@ Rename apr and apr-util folders
 9. Verify the server running status at http://localhost
 
 
-
+Update: Tomcat 8.5.59 AJP Port COnfig
+<Connector protocol="AJP/1.3"
+               address="192.168.60.128"
+               port="8209"
+               redirectPort="8443" secretRequired="false" />
